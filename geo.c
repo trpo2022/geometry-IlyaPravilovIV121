@@ -1,4 +1,4 @@
-#include "geomfunc.h"
+#include "geofunc.h"
 #include <ctype.h>
 #include <stdio.h>
 #define STRINGSIZE 30
